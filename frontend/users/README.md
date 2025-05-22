@@ -1,6 +1,21 @@
-# Users
+# 🧩 Users Frontend App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.19.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.19 y **Node.js v20.19.0**, que consume una API REST para mostrar y gestionar usuarios.
+
+## 🚀 Tecnologías utilizadas
+
+- **Angular**: v18
+- **Node.js**: v20.19.0
+- **RxJS**, **Signals** y **HttpClient** para la gestión de estado y consumo de datos
+
+## ⚙️ Requisitos
+
+Para ejecutar correctamente esta aplicación, necesitas tener:
+
+- Node.js instalado (versión **20.19.0** recomendada)
+- Angular CLI instalado globalmente:
+  ```bash
+  npm install -g @angular/cli
 
 ## Development server
 
